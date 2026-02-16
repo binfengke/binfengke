@@ -17,7 +17,6 @@ I focus on building reliable testing frameworks for decentralized systems — fr
 |---------|-------------|
 | [Solana-Defi-Vault](https://github.com/binfengke/Solana-Defi-Vault) | DeFi vault protocol on Solana with Postman API test suite and CI/CD pipeline |
 | [web3-qa-playbook](https://github.com/binfengke/web3-qa-playbook) | 65+ test cases covering MetaMask, WalletConnect, NFT, and on-chain/off-chain sync |
-| [gas-calculator](https://github.com/binfengke/gas-calculator) | Ethereum gas fee estimation tool |
 
 ## Tech Stack
 
