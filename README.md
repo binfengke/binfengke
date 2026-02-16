@@ -16,11 +16,12 @@ I focus on building reliable testing frameworks for decentralized systems — fr
 | Project | Description |
 |---------|-------------|
 | [Solana-Defi-Vault](https://github.com/binfengke/Solana-Defi-Vault) | DeFi vault protocol on Solana with Postman API test suite and CI/CD pipeline |
+| [dapp-e2e-tests](https://github.com/binfengke/dapp-e2e-tests) | 25 E2E test cases for dApp interactions using Playwright + Synpress + ethers.js |
 | [web3-qa-playbook](https://github.com/binfengke/web3-qa-playbook) | 65+ test cases covering MetaMask, WalletConnect, NFT, and on-chain/off-chain sync |
 
 ## Tech Stack
 
-`Solana` `Ethereum` `Anchor` `Rust` `TypeScript` `Postman/Newman` `GitHub Actions` `MetaMask` `WalletConnect` `Polygon`
+`Solana` `Ethereum` `Anchor` `Rust` `TypeScript` `Playwright` `Synpress` `ethers.js` `Postman/Newman` `GitHub Actions` `MetaMask` `WalletConnect` `Polygon`
 
 ## Contact
 
