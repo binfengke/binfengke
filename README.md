@@ -4,6 +4,8 @@
 
 I focus on building reliable testing frameworks for decentralized systems — from smart contract validation to wallet integration testing and on-chain data verification.
 
+Target role: Web3 QA / SDET focused on Solana and dApp reliability.
+
 ## What I Work On
 
 - **Smart Contract QA** — Designing test strategies for Solana/Anchor programs, including state validation and edge case coverage
@@ -17,7 +19,7 @@ I focus on building reliable testing frameworks for decentralized systems — fr
 |---------|-------------|
 | [Solana-Defi-Vault](https://github.com/binfengke/Solana-Defi-Vault) | DeFi vault protocol on Solana with Postman API test suite and CI/CD pipeline |
 | [dapp-e2e-tests](https://github.com/binfengke/dapp-e2e-tests) | 32 E2E test cases for dApp interactions using Playwright + Synpress + ethers.js |
-| [web3-qa-playbook](https://github.com/binfengke/web3-qa-playbook) | 94 test cases covering MetaMask, WalletConnect, NFT, on-chain/off-chain sync, cross-chain bridge, and database validation |
+| [web3-qa-playbook](https://github.com/binfengke/web3-qa-playbook) | 97 test cases covering MetaMask, WalletConnect, NFT, on-chain/off-chain sync, cross-chain bridge, and database validation |
 
 ## Tech Stack
 
