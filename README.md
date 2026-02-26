@@ -10,7 +10,7 @@ Target role: Web3 QA / SDET focused on Solana and dApp reliability.
 
 - **Smart Contract QA** — Designing test strategies for Solana/Anchor programs, including state validation and edge case coverage
 - **API Testing** — Solana JSON-RPC endpoint testing with Postman/Newman, automated assertion scripts
-- **CI/CD Pipelines** — GitHub Actions workflows for automated checks and regression testing (API + test framework validation)
+- **CI/CD Pipelines** — GitHub Actions for type checks and safe regression checks; full E2E runs via manual dispatch when secrets are available
 - **Web3 Integration Testing** — MetaMask, WalletConnect, NFT lifecycle, and on-chain/off-chain sync verification
 
 ## Featured Projects
@@ -18,7 +18,7 @@ Target role: Web3 QA / SDET focused on Solana and dApp reliability.
 | Project | Description |
 |---------|-------------|
 | [Solana-Defi-Vault](https://github.com/binfengke/Solana-Defi-Vault) | DeFi vault protocol on Solana with Postman/Newman API tests and CI checks |
-| [dapp-e2e-tests](https://github.com/binfengke/dapp-e2e-tests) | 32 E2E test cases for dApp interactions using Playwright + Synpress + ethers.js |
+| [dapp-e2e-tests](https://github.com/binfengke/dapp-e2e-tests) | 32 E2E test cases (+2 unit tests) for dApp interactions using Playwright + Synpress + ethers.js |
 | [web3-qa-playbook](https://github.com/binfengke/web3-qa-playbook) | 97 test cases covering MetaMask, WalletConnect, NFT, on-chain/off-chain sync, cross-chain bridge, and database validation |
 
 ## Tech Stack
