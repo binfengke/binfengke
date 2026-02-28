@@ -5,7 +5,6 @@
 I focus on building reliable testing frameworks for decentralized systems — from smart contract validation to wallet integration testing and on-chain data verification.
 
 Target role: Web3 QA / SDET focused on Solana and dApp reliability.
-Also open to QA Automation / SDET roles (TypeScript + Playwright).
 
 ## What I Work On
 
@@ -21,7 +20,7 @@ Also open to QA Automation / SDET roles (TypeScript + Playwright).
 | [Solana-Defi-Vault](https://github.com/binfengke/Solana-Defi-Vault) | DeFi vault protocol on Solana with Postman/Newman API tests and CI checks |
 | [dapp-e2e-tests](https://github.com/binfengke/dapp-e2e-tests) | 32 E2E test cases (+2 unit tests) for dApp interactions using Playwright + Synpress + ethers.js |
 | [web3-qa-playbook](https://github.com/binfengke/web3-qa-playbook) | 97 test cases covering MetaMask, WalletConnect, NFT, on-chain/off-chain sync, cross-chain bridge, and database validation |
-| [qa-admin-portal-automation](https://github.com/binfengke/qa-admin-portal-automation) | Reference admin portal + Playwright API/UI automation (Fastify/Prisma/Postgres, Docker + CI) |
+| [qa-admin-portal-automation](https://github.com/binfengke/qa-admin-portal-automation) | Non-Web3 reference admin portal + Playwright API/UI automation (Fastify/Prisma/Postgres, Docker + CI) |
 
 ## Tech Stack
 
