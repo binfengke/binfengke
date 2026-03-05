@@ -1,30 +1,33 @@
 # Hi, I'm Binfeng Ke
 
-**QA Engineer** specializing in Web3 and blockchain applications.
+**Web3 QA / SDET** focused on **mobile + dApp reliability** (Solana + EVM).
 
-I focus on building reliable testing frameworks for decentralized systems — from smart contract validation to wallet integration testing and on-chain data verification.
+I build test frameworks that validate **wallet flows** (WalletConnect/MetaMask) and verify **chain state** (RPC/on-chain checks), so teams can ship without guessing.
 
-Target role: Web3 QA / SDET focused on Solana and dApp reliability.
+## Highlights
 
-## What I Work On
-
-- **Smart Contract QA** — Designing test strategies for Solana/Anchor programs, including state validation and edge case coverage
-- **API Testing** — Solana JSON-RPC endpoint testing with Postman/Newman, automated assertion scripts
-- **CI/CD Pipelines** — GitHub Actions for type checks and safe regression checks; full E2E runs via manual dispatch when secrets are available
-- **Web3 Integration Testing** — MetaMask, WalletConnect, NFT lifecycle, and on-chain/off-chain sync verification
+- **Mobile WalletConnect v2 E2E**: Appium (Android Chrome) + deterministic pairing/signing (CI-friendly)
+- **dApp E2E**: 34 tests (Playwright + Synpress + ethers.js) across connect, transfers, NFT mint, swaps with on-chain verification
+- **Web3 QA Playbook**: 97 test cases (wallets, NFTs, on/off-chain sync, bridges, DB validation)
+- **Solana QA**: Anchor program testing + Solana JSON-RPC regression suite (Postman/Newman) + CI
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [Solana-Defi-Vault](https://github.com/binfengke/Solana-Defi-Vault) | DeFi vault protocol on Solana with Postman/Newman API tests and CI checks |
-| [dapp-e2e-tests](https://github.com/binfengke/dapp-e2e-tests) | 32 E2E test cases (+2 unit tests) for dApp interactions using Playwright + Synpress + ethers.js |
-| [web3-qa-playbook](https://github.com/binfengke/web3-qa-playbook) | 97 test cases covering MetaMask, WalletConnect, NFT, on-chain/off-chain sync, cross-chain bridge, and database validation |
-| [qa-admin-portal-automation](https://github.com/binfengke/qa-admin-portal-automation) | Non-Web3 reference admin portal + Playwright API/UI automation (Fastify/Prisma/Postgres, Docker + CI) |
+| Project | What it demonstrates |
+|---|---|
+| [mobile-wallet-e2e](https://github.com/binfengke/mobile-wallet-e2e) | Mobile WalletConnect v2 testing: regression matrix + Appium automation sample (connect + `personal_sign` + signature verification) |
+| [dapp-e2e-tests](https://github.com/binfengke/dapp-e2e-tests) | E2E framework for dApp interactions using Playwright + Synpress (MetaMask automation) + ethers.js on-chain verification |
+| [web3-qa-playbook](https://github.com/binfengke/web3-qa-playbook) | Structured Web3 regression suites: MetaMask, WalletConnect, NFT lifecycle, bridges, on/off-chain sync, and DB checks |
+| [qa-admin-portal-automation](https://github.com/binfengke/qa-admin-portal-automation) | Realistic admin portal + Playwright API/UI automation (Fastify/Prisma/Postgres, Docker + CI) |
+| [Solana-Defi-Vault](https://github.com/binfengke/Solana-Defi-Vault) | Solana/Anchor DeFi vault with Postman/Newman API tests and CI checks |
 
-## Tech Stack
+## Tooling
 
-`Solana` `Ethereum` `Anchor` `Rust` `TypeScript` `Playwright` `Synpress` `ethers.js` `Postman/Newman` `GitHub Actions` `Docker` `MetaMask` `WalletConnect` `Polygon`
+`TypeScript` `Playwright` `Synpress` `Appium` `WebdriverIO` `ethers.js` `WalletConnect v2` `MetaMask` `Postman/Newman` `GitHub Actions` `Docker` `Solana` `Anchor` `Rust` `Ethereum`
+
+## Open To
+
+Web3 QA Engineer / SDET roles (mobile + web). Montreal or remote.
 
 ## Contact
 
